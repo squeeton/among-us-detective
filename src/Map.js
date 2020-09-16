@@ -123,22 +123,22 @@ export default class extends React.Component {
               {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'pink' }}>?</h1> : <span class="dot pink"></span>}
             </Slice>
             <Slice onSelect={(e) => this.circleClick(e, 'orange', mouseX, mouseY)}>
-              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'orange' }}>?</h1> : <span class="dot orange"></span>}
+              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: ' #ff8c1a' }}>?</h1> : <span class="dot orange"></span>}
             </Slice>
             <Slice onSelect={(e) => this.circleClick(e, 'yellow', mouseX, mouseY)}>
               {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'yellow' }}>?</h1> : <span class="dot yellow"></span>}
             </Slice>
             <Slice onSelect={(e) => this.circleClick(e, 'black', mouseX, mouseY)}>
-              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'black' }}>?</h1> : <span class="dot black"></span>}
+              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: '#333333' }}>?</h1> : <span class="dot black"></span>}
             </Slice>
             <Slice onSelect={(e) => this.circleClick(e, 'white', mouseX, mouseY)}>
               {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'white' }}>?</h1> : <span class="dot white"></span>}
             </Slice>
             <Slice onSelect={(e) => this.circleClick(e, 'purple', mouseX, mouseY)}>
-              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'purple' }}>?</h1> : <span class="dot purple"></span>}
+              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: '#8000ff' }}>?</h1> : <span class="dot purple"></span>}
             </Slice>
             <Slice onSelect={(e) => this.circleClick(e, 'brown', mouseX, mouseY)}>
-              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'brown' }}>?</h1> : <span class="dot brown"></span>}
+              {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: '#804000' }}>?</h1> : <span class="dot brown"></span>}
             </Slice>
             <Slice onSelect={(e) => this.circleClick(e, 'teal', mouseX, mouseY)}>
               {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'teal' }}>?</h1> : <span class="dot teal"></span>}
