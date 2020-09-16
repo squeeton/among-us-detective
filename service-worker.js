@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/among-us-detective/precache-manifest.20d43ae8ee6ee337236636c776bd32b1.js"
+  "/among-us-detective/precache-manifest.8b4993d72d6a47f443f0352faa5dc72d.js"
 );
 
 self.addEventListener('message', (event) => {
