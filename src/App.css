@@ -119,6 +119,9 @@ h1{
 .suit .self-vouch-text:hover{
   cursor: not-allowed
 }
+.suit .crew-outline:hover{
+  cursor: not-allowed
+}
 .timer .timer-text:hover{
   cursor: context-menu
 }
