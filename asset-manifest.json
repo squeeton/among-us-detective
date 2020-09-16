@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/among-us-detective/static/css/main.d7629629.chunk.css",
-    "main.js": "/among-us-detective/static/js/main.2fd33d45.chunk.js",
-    "main.js.map": "/among-us-detective/static/js/main.2fd33d45.chunk.js.map",
+    "main.js": "/among-us-detective/static/js/main.15bd7f46.chunk.js",
+    "main.js.map": "/among-us-detective/static/js/main.15bd7f46.chunk.js.map",
     "runtime-main.js": "/among-us-detective/static/js/runtime-main.d95c2edf.js",
     "runtime-main.js.map": "/among-us-detective/static/js/runtime-main.d95c2edf.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/among-us-detective/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.c7c7325d.chunk.js": "/among-us-detective/static/js/2.c7c7325d.chunk.js",
     "static/js/2.c7c7325d.chunk.js.map": "/among-us-detective/static/js/2.c7c7325d.chunk.js.map",
     "index.html": "/among-us-detective/index.html",
-    "precache-manifest.312879807eb68ce085a480c7eff42e44.js": "/among-us-detective/precache-manifest.312879807eb68ce085a480c7eff42e44.js",
+    "precache-manifest.9a57fc52ea19df1e6764f44bcf5d6a84.js": "/among-us-detective/precache-manifest.9a57fc52ea19df1e6764f44bcf5d6a84.js",
     "service-worker.js": "/among-us-detective/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/among-us-detective/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.d7629629.chunk.css.map": "/among-us-detective/static/css/main.d7629629.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.c7c7325d.chunk.js",
     "static/css/main.d7629629.chunk.css",
-    "static/js/main.2fd33d45.chunk.js"
+    "static/js/main.15bd7f46.chunk.js"
   ]
 }
