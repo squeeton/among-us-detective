@@ -1,0 +1,233 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: stretch;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.dot {
+  height: 45px;
+  width: 45px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+.suit {
+  position: relative;
+  display: inline;
+  z-index: 2;
+}
+
+.timer {
+  position: relative;
+  display: inline;
+  z-index: 2;
+}
+
+#product-svg {
+  position: auto;
+}
+
+
+.crew-outline {
+  position: absolute;
+  top: 0;
+  left:0;
+  z-index: 1;
+}
+
+h1{
+  font-weight: 500;
+  font-size: 60px;
+}
+
+.map {
+  object-fit: contain;
+}
+
+.timer-text{
+  font-family: "Impact", Charcoal, sans-serif;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+  margin:0;
+}
+
+.self-vouch-text{
+  font-size: 65px;
+    font-weight: 700;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+.suit .self-vouch-text:hover{
+  cursor: not-allowed
+}
+.timer .timer-text:hover{
+  cursor: context-menu
+}
+.react-draggable:hover{
+  cursor:grab
+}
+
+.red {
+  fill: Red;
+  background-color: Red;
+  color: Red;
+}
+.blue {
+  fill: Blue;
+  background-color: Blue;
+  color: Blue;
+}
+.green {
+  fill: green;
+  background-color: green;
+  color: green;
+}
+.pink {
+  fill: hotpink;
+  background-color: hotpink;
+  color: hotpink;
+}
+.orange {
+  fill: #ff8c1a;
+  background-color: #ff8c1a;
+  color: #ff8c1a;
+}
+.yellow {
+  fill: Yellow;
+  background-color: Yellow;
+  color: Yellow;
+}
+.black {
+  fill: #333333;
+  background-color: #333333;
+  color: #333333;
+}
+.white {
+  fill: white;
+  background-color: white;
+  color: white;
+}
+.purple {
+  fill: #8000ff;
+  background-color: #8000ff;
+  color: #8000ff;
+}
+.brown {
+  fill: #804000;
+  background-color: #804000;
+  color: #804000;
+}
+.teal {
+  fill: aqua;
+  background-color: aqua;
+  color: aqua;
+}
+.lime {
+  fill: lime;
+  background-color: lime;
+  color: lime;
+}
+
+
+.red-text {
+  color: Red;
+}
+.blue-text {
+  color: Blue;
+}
+.green-text {
+  color: green;
+}
+.pink-text {
+  color: hotpink;
+}
+.orange-text {
+  color: #ff8c1a;
+}
+.yellow-text {
+  color: Yellow;
+}
+.black-text {
+  color: #333333;
+}
+.white-text {
+  color: white;
+}
+.purple-text {
+  color: #8000ff;
+}
+.brown-text {
+  color: #804000;
+}
+.teal-text {
+  color: aqua;
+}
+.lime-text {
+  color: lime;
+}
+
+
+
+
+.iMmuIk {
+  background: radial-gradient(transparent 30px,rgba(0,0,0,0.6) 30px) !important;
+}
