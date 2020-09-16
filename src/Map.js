@@ -108,6 +108,7 @@ export default class extends React.Component {
             centerRadius="25px"
             centerX={mouseX}
             centerY={mouseY}
+            
           >
             <Slice onSelect={(e) => this.circleClick(e, 'red', mouseX, mouseY)}>
               {(this.state.selfVouch) ? <h1 class="self-vouch-text" style={{ color: 'red' }}>?</h1> : <span class="dot red"></span>}

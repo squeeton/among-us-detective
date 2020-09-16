@@ -231,3 +231,8 @@ h1{
 .iMmuIk {
   background: radial-gradient(transparent 30px,rgba(0,0,0,0.6) 30px) !important;
 }
+
+
+.connectTheme-sc-1m5rd6y-0 {
+  z-index: 5;
+}

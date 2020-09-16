@@ -149,9 +149,6 @@ class App extends React.Component {
     return (
       <div className="App-header">
 
-
-
-        <br />
         <Row style={{ width: '90%' }}>
           <Col className='align-items-center'>
             <Row>
