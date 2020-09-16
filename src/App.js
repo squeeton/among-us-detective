@@ -305,11 +305,12 @@ class App extends React.Component {
             <p><b>Left click</b> and drag a color to mark a sighting.</p>
             <p><b>Left click</b> a sighting to remove it.</p>
             <p><b>Right click</b> and drag a color to mark when someone says they were somewhere.</p>
-            <p style={{ textAlign: 'center' }}> (We both know they cant be trusted)</p>
-            <p>Draw a path on a color to connect all sightings in chronological order.</p>
-            <p>Click and drag unknowns to cleared or suspects.</p>
-            <p>Clear sightings to remove all markers of crewmates.</p>
-            <p>Clear paths to remove all lines between crewmates.</p>
+            <p style={{ textAlign: 'center' }}> <i>(We both know they cant be trusted)</i></p>
+            <p><b>Draw Paths</b> will connect all sightings of a specific color in chronological order.</p>
+            <p><b>Click and drag</b> crewmates from Unknown to Cleared or Suspects.</p>
+            <p><b>Clear Paths</b> to remove all lines between crewmates.</p>
+            <p><b>Clear ?'s</b> to remove all question marks.</p>
+            <p><b>Clear Sightings</b> to remove all markers of crewmates.</p>
 
 
           </Modal.Body>
