@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31c3bed110d284cc937bd89d41c35cfb",
+    "revision": "4a66076be175f65a566182ee7e11cdfa",
     "url": "/among-us-detective/index.html"
   },
   {
