@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/among-us-detective/static/css/main.d7629629.chunk.css",
+    "main.css": "/among-us-detective/static/css/main.cd887c4f.chunk.css",
     "main.js": "/among-us-detective/static/js/main.0e76338d.chunk.js",
     "main.js.map": "/among-us-detective/static/js/main.0e76338d.chunk.js.map",
     "runtime-main.js": "/among-us-detective/static/js/runtime-main.d95c2edf.js",
@@ -9,10 +9,10 @@
     "static/js/2.c7c7325d.chunk.js": "/among-us-detective/static/js/2.c7c7325d.chunk.js",
     "static/js/2.c7c7325d.chunk.js.map": "/among-us-detective/static/js/2.c7c7325d.chunk.js.map",
     "index.html": "/among-us-detective/index.html",
-    "precache-manifest.873f35df183ce07003966cd898f9030c.js": "/among-us-detective/precache-manifest.873f35df183ce07003966cd898f9030c.js",
+    "precache-manifest.912414470bedd09214a75520c72f17a0.js": "/among-us-detective/precache-manifest.912414470bedd09214a75520c72f17a0.js",
     "service-worker.js": "/among-us-detective/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/among-us-detective/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.d7629629.chunk.css.map": "/among-us-detective/static/css/main.d7629629.chunk.css.map",
+    "static/css/main.cd887c4f.chunk.css.map": "/among-us-detective/static/css/main.cd887c4f.chunk.css.map",
     "static/js/2.c7c7325d.chunk.js.LICENSE.txt": "/among-us-detective/static/js/2.c7c7325d.chunk.js.LICENSE.txt",
     "static/media/mira.png": "/among-us-detective/static/media/mira.b9265158.png",
     "static/media/polus.png": "/among-us-detective/static/media/polus.8623271e.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.d95c2edf.js",
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.c7c7325d.chunk.js",
-    "static/css/main.d7629629.chunk.css",
+    "static/css/main.cd887c4f.chunk.css",
     "static/js/main.0e76338d.chunk.js"
   ]
 }
