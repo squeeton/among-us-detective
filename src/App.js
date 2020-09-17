@@ -302,17 +302,17 @@ class App extends React.Component {
             <Modal.Title>How To Use</Modal.Title>
           </Modal.Header>
           <Modal.Body>
-            <p><b>Left click</b> and drag a color to mark a sighting.</p>
+            <p><b>Left click</b> and drag a color to mark a sighting of a crewmate.</p>
             <p><b>Left click</b> a sighting to remove it.</p>
-            <p><b>Right click</b> and drag a color to mark when someone says they were somewhere.</p>
-            <p style={{ textAlign: 'center' }}> <i>(We both know they cant be trusted)</i></p>
-            <p><b>Draw Paths</b> will connect all sightings of a specific color in chronological order.</p>
-            <p><b>Click and drag</b> crewmates from Unknown to Cleared or Suspects.</p>
+            <p><b>Right click</b> and drag to mark people said they were. <i>(We both know they cant be trusted)</i></p>
+            <p><b>Left click</b> a question mark to remove it.</p>
+            <p>Three grids at the top to organize who has been cleared or is suspicious. <b>Click and Drag</b></p>
+            
+            <p><b>Draw Paths</b> and select a color to draw a path between all sightings of a particular color in chronological order.</p>
+            
             <p><b>Clear Paths</b> to remove all lines between crewmates.</p>
-            <p><b>Clear ?'s</b> to remove all question marks.</p>
-            <p><b>Clear Sightings</b> to remove all markers of crewmates.</p>
-
-
+            <p><b>Clear ?'s</b> to remove all self vouches.</p>
+            <p><b>Clear Sightings</b> to remove all sightings <i>(between round or games depending on how cluttered it gets)</i></p>
           </Modal.Body>
         </Modal>
       </div>
