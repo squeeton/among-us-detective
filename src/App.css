@@ -1,3 +1,16 @@
+* {
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+
+  /*
+    Introduced in IE 10.
+    See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+  */
+  -ms-user-select: none;
+  user-select: none;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -15,7 +28,6 @@ body {
 .App-intro {
   font-size: large;
 }
-
 
 .App {
   text-align: center;
@@ -86,6 +98,12 @@ html {
 }
 
 
+.sighting-outline {
+  position: absolute;
+  top: 0;
+  left:0;
+  z-index: 1;
+}
 .crew-outline {
   position: absolute;
   top: 0;
@@ -119,14 +137,14 @@ h1{
 .suit .self-vouch-text:hover{
   cursor: not-allowed
 }
-.suit .crew-outline:hover{
+.suit .sighting-outline:hover{
   cursor: not-allowed
 }
 .timer .timer-text:hover{
   cursor: context-menu
 }
 .react-draggable:hover{
-  cursor:grab
+  cursor:grab !important;
 }
 
 .red {

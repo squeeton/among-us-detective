@@ -113,7 +113,7 @@ class App extends React.Component {
       case 'brown': cssColor = '#804000'; break;
       case 'teal': cssColor = 'aqua'; break;
       case 'lime': cssColor = 'lime'; break;
-
+      default: cssColor = ""; break;
     }
 
     var i = 0;

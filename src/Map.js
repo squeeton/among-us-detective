@@ -20,7 +20,7 @@ export default class extends React.Component {
     var ctx = this.canvas.getContext('2d');
     var img = new Image();
     img.onload = () => {
-      ctx.drawImage(img, -50, 0, 1920, 1080);
+      ctx.drawImage(img, -50, 0, 1680, 1050);
     };
     img.src = this.props.currentMap;
     this.setState({
@@ -34,7 +34,7 @@ export default class extends React.Component {
       var ctx = this.canvas.getContext('2d');
       var img = new Image();
       img.onload = () => {
-        ctx.drawImage(img, -50, 0, 1920, 1080);
+        ctx.drawImage(img, -50, 0, 1680, 1050);
       };
       img.src = this.props.currentMap;
       this.setState({
@@ -101,7 +101,7 @@ export default class extends React.Component {
         onMouseUp={this.onMouseUp}
         onContextMenu={this.onContextMenu}
       >
-        <canvas width="1920" height="1080" ref={ref => { this.canvas = ref; }} />
+        <canvas width="1680" height="1050" ref={ref => { this.canvas = ref; }} />
         {showMenu && (
           <PieMenu
             radius="200px"
