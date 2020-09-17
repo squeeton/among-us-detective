@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5cf6140e05cd2edb76fa641942acf03",
+    "revision": "89d3022716f45e442aaba811e8874834",
     "url": "/among-us-detective/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/among-us-detective/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "3dab750f8b5a4ac0cf49",
+    "revision": "7973462140715e68930d",
     "url": "/among-us-detective/static/css/main.a8e05bd7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/among-us-detective/static/js/2.c7c7325d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3dab750f8b5a4ac0cf49",
-    "url": "/among-us-detective/static/js/main.01ccc956.chunk.js"
+    "revision": "7973462140715e68930d",
+    "url": "/among-us-detective/static/js/main.7e49d43b.chunk.js"
   },
   {
     "revision": "d11125e66171fd02171d",
@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/among-us-detective/static/media/polus.8623271e.png"
   },
   {
-    "revision": "9c61140045d9a9ce78ff2a7fc5f0888d",
-    "url": "/among-us-detective/static/media/skeld.9c611400.png"
+    "revision": "36191e96041a896d190db1d957ef1565",
+    "url": "/among-us-detective/static/media/skeld.36191e96.png"
   }
 ]);
