@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8cfec356907da101a3d837827e437472",
+    "revision": "5cd22eb100d6f0275eebc6463d4a8065",
     "url": "/among-us-detective/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/among-us-detective/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "1a669da7dfd1b9ed5000",
+    "revision": "6e466fab372cb4967672",
     "url": "/among-us-detective/static/css/main.a8e05bd7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/among-us-detective/static/js/2.c7c7325d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a669da7dfd1b9ed5000",
-    "url": "/among-us-detective/static/js/main.9d8f30ad.chunk.js"
+    "revision": "6e466fab372cb4967672",
+    "url": "/among-us-detective/static/js/main.980e5c60.chunk.js"
   },
   {
     "revision": "d11125e66171fd02171d",
