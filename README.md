@@ -21,3 +21,10 @@
 - click **Remove Paths** to remove all the paths between sightings 
 - Click **Remove ?'s** to remove all self vouches
 - Click **Remove Sightings** to remove all sightings(between round or games depending on how cluttered it gets)
+- Maps were taken from reddit posts, u/SuperInkyGD, /u/Vici_Finis. Specific links in the Read Me.
+
+
+## Map Credits:
+ - [Skeld](https://www.reddit.com/r/AmongUs/comments/f6m9mx/skeld_map_guide/)
+ - [Mira](https://www.reddit.com/r/AmongUs/comments/ihhba0/mira_hq_map_guide/)
+ - [Polus](https://www.reddit.com/r/AmongUs/comments/ij9qiv/polus_map_guide_w_marked_tasks_cameras_vents/)
